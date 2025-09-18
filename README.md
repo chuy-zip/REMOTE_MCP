@@ -15,7 +15,7 @@ A Model Context Protocol (MCP) server deployed on Google Cloud Run that provides
 
 ### 1. Add Two Numbers
 
-Subtracts the second number from the first and returns the result.
+Adds the second number from the first and returns the result.
 
 __Parameters__:
 
@@ -23,7 +23,7 @@ __Parameters__:
 
 `b`: Second integer (subtrahend)
 
-__Returns__: Difference between the two numbers
+__Returns__: Addition between the two numbers
 
 ### 2. Substract Two Numbers
 
